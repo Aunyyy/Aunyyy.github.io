@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.116932e7.chunk.css",
-  "main.js": "/static/js/main.34c7678a.chunk.js",
-  "main.js.map": "/static/js/main.34c7678a.chunk.js.map",
-  "static/js/1.98639319.chunk.js": "/static/js/1.98639319.chunk.js",
-  "static/js/1.98639319.chunk.js.map": "/static/js/1.98639319.chunk.js.map",
-  "static/js/2.b23a0157.chunk.js": "/static/js/2.b23a0157.chunk.js",
-  "static/js/2.b23a0157.chunk.js.map": "/static/js/2.b23a0157.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.b29c9e15.js",
-  "runtime~main.js.map": "/static/js/runtime~main.b29c9e15.js.map",
-  "static/css/main.116932e7.chunk.css.map": "/static/css/main.116932e7.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.9ae4fcef86fb8db4afdd251cfca7d16d.js": "/precache-manifest.9ae4fcef86fb8db4afdd251cfca7d16d.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/Pathfinding-Visualizer/static/css/main.116932e7.chunk.css",
+  "main.js": "/Pathfinding-Visualizer/static/js/main.34c7678a.chunk.js",
+  "main.js.map": "/Pathfinding-Visualizer/static/js/main.34c7678a.chunk.js.map",
+  "static/js/1.98639319.chunk.js": "/Pathfinding-Visualizer/static/js/1.98639319.chunk.js",
+  "static/js/1.98639319.chunk.js.map": "/Pathfinding-Visualizer/static/js/1.98639319.chunk.js.map",
+  "static/js/2.b23a0157.chunk.js": "/Pathfinding-Visualizer/static/js/2.b23a0157.chunk.js",
+  "static/js/2.b23a0157.chunk.js.map": "/Pathfinding-Visualizer/static/js/2.b23a0157.chunk.js.map",
+  "runtime~main.js": "/Pathfinding-Visualizer/static/js/runtime~main.a0a95625.js",
+  "runtime~main.js.map": "/Pathfinding-Visualizer/static/js/runtime~main.a0a95625.js.map",
+  "static/css/main.116932e7.chunk.css.map": "/Pathfinding-Visualizer/static/css/main.116932e7.chunk.css.map",
+  "index.html": "/Pathfinding-Visualizer/index.html",
+  "precache-manifest.7e3e33700d325c9e5c2b203e8ce138a3.js": "/Pathfinding-Visualizer/precache-manifest.7e3e33700d325c9e5c2b203e8ce138a3.js",
+  "service-worker.js": "/Pathfinding-Visualizer/service-worker.js"
 }
